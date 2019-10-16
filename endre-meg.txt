@@ -1,5 +1,9 @@
 Dette er en tekstfil
 
+
 endret av Sindre
+
+Denne linjen er endret av jon
+
 
 Hilsen Jon
